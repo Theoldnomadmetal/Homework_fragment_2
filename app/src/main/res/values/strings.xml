@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework_fragment_2</string>
+    <string name="homework_text">Домашнее Задание №15</string>
+    <string name="url">URL</string>
+    <string name="number">Number</string>
+    <string name="go">GO!</string>
+    <string name="call">Call</string>
+</resources>
